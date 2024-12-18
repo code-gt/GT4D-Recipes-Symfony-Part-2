@@ -22,7 +22,7 @@ Bienvenue dans la suite de ce TP ! 🎉 Vous avez déjà créé une base solide 
 
 * Créer une page de connexion et d'inscription personnalisée.
 
-### 🧩 1. Ajouter des Formulaires pour les Recettes
+### 🧩 2. Ajouter des Formulaires pour les Recettes
 
 * Créer un formulaire Symfony pour les recettes et catégories. A vous de voir la forme que ça va prendre (deux formulaires séparés pour les deux entités, un seul formulaire, des champs select pour choisir parmis les catégories existantes etc...).
 
